@@ -2,7 +2,7 @@
 permalink: /
 layout: splash
 header:
-    overlay_color: rgb(171, 74, 73)
+    overlay_image: https://mcgill-nlp.github.io/thoughtology/assets/images/whale.png
     actions:
         - label: "Paper"
           url: https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf
