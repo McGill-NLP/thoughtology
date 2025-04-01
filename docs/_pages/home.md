@@ -31,7 +31,7 @@ If you find this paper useful in your research, please consider citing:
 
 ```
 @misc{thoughtology2025,
-      title={title, 
+      title = {DeepSeek-R1 Thoughtology: Let's think about LLM reasoning}, 
       author = {Sara Vera Marjanovic, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, Aditi Khandelwal, Austin Kraft, Benno Krojer, Xing Han Lu, Nicholas Meade, Dongchan Shin, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stanczak, Siva Reddy},
       year = {2025},
       url = {https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf}
