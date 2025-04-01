@@ -27,3 +27,4 @@ further exploration. We also note strong safety vulnerabilities of DeepSeek-R1 c
 </p>
 
 <nav><a href="https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf" target="_blank">Read the paper</a></nav>
+<nav><a href="https://mcgill-nlp.github.io/thoughtology/Deepseek_R1_Thoughtology.pdf" target="_blank">Read the paper</a></nav>
