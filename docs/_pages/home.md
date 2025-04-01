@@ -31,7 +31,7 @@ If you find this paper useful in your research, please consider citing:
 
 ```
 @misc{thoughtology2025,
-      title={{DeepSeek-R1 Thoughtology}: {L}ets think about {LLM} reasoning}, 
+      title={title, 
       author = {author},
       year = {2025},
       url = {https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf}
