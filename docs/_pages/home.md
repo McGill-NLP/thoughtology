@@ -34,6 +34,6 @@ If you find this paper useful in your research, please consider citing:
       title={title, 
       author = {author},
       year = {2025},
-      url = {link}
+      url = {https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf}
 }
 ```
