@@ -4,13 +4,7 @@ layout: splash
 header:
     overlay_color: rgb(171, 74, 73)
     actions:
-        - label: "Paper_file_dl"
-          url: https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf
-          icon: "fas fa-book"
-        - label: "Paper_drive"
-          url: https://drive.google.com/file/d/1eoZSEROdK07YB1QG_MP3F2keYp-pqovI/view
-          icon: "fas fa-book"
-        - label: "Paper_browser"
+        - label: "Paper"
           url: https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf
           icon: "fas fa-book"
 
@@ -28,5 +22,3 @@ further exploration. We also note strong safety vulnerabilities of DeepSeek-R1 c
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be46b39c-74ed-4277-a1c8-6237977c402a" width="80%" alt="Thoughtology_figure1"/>
 </p>
-
-<a href="https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf" target="_blank">Read the paper</a>
