@@ -30,10 +30,13 @@ further exploration. We also note strong safety vulnerabilities of DeepSeek-R1 c
 If you find this paper useful in your research, please consider citing:
 
 ```
-@misc{thoughtology2025,
-  title = {{DeepSeek-R1 Thoughtology}: {L}et's <think> about {LLM} reasoning},
-  author = {Sara Vera Marjanovic and Arkil Patel and Vaibhav Adlakha and Milad Aghajohari and Parishad BehnamGhader and Mehar Bhatia and Aditi Khandelwal and Austin Kraft and Benno Krojer and Xing Han Lu and Nicholas Meade and Dongchan Shin and Amirhossein Kazemnejad and Gaurav Kamath and Marius Mosbach and Karolina Stanczak and Siva Reddy},
-  year = {2025},
-  url = {https://mcgill-nlp.github.io/thoughtology/assets/Deepseek_R1_Thoughtology.pdf}
+@misc{malicious_ir_2025,
+      title={Exploiting Instruction-Following Retrievers for Malicious Information Retrieval}, 
+      author={Parishad BehnamGhader and Nicholas Meade and Siva Reddy},
+      year={2025},
+      eprint={2503.08644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.08644}
 }
 ```
