@@ -24,7 +24,9 @@ body {
 
 h1, h2, p, div {
     font-family: Lato !important;
-  }
+    line-height: 1.6;
+    letter-spacing: 0.01em;
+}
 
 div.highlighter-rouge {
     background-color: #eff;
