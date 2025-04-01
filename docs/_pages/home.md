@@ -2,7 +2,7 @@
 permalink: /
 layout: splash
 header:
-    overlay_color: rgb(178, 214, 255)
+    overlay_color: rgb(130, 200, 226)
     overlay_image: https://mcgill-nlp.github.io/thoughtology/assets/images/whale.png
     actions:
         - label: "Paper"
@@ -10,7 +10,7 @@ header:
           icon: "fas fa-book"
 
 
-title: "DeepSeek-R1 Thoughtology: Let's &lt;think&gt; about LLM reasoning"
+title: "DeepSeek-R1 Thoughtology: <br> Let's &lt;think&gt; about LLM reasoning"
 ---
 
 Sara Vera Marjanovic, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, Aditi Khandelwal, Austin Kraft, Benno Krojer, Xing Han Lu, Nicholas Meade, Dongchan Shin, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stanczak, Siva Reddy
