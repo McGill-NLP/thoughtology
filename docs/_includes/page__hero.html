@@ -40,7 +40,7 @@
         <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
       {% if page.header.actions %}
-        <p style="margin-top: 5em;">
+        <p style="margin-top: 6em;">
         {% for action in page.header.actions %}
           <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">
             {% if action.icon %}
