@@ -10,3 +10,7 @@ $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 10%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix($background-color, $text-color, 25%) !default;
+
+body, h1, h2, h3, h4, h5, h6, p, div, span, li {
+   font-family: 'CMU Serif', serif !important;
+}

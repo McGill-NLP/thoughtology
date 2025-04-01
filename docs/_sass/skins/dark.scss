@@ -28,3 +28,7 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+body, h1, h2, h3, h4, h5, h6, p, div, span, li {
+  font-family: 'CMU Serif', serif !important;
+}
