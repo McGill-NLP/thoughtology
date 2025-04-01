@@ -10,6 +10,9 @@ header:
         - label: "Paper_drive"
           url: https://drive.google.com/file/d/1eoZSEROdK07YB1QG_MP3F2keYp-pqovI/view
           icon: "fas fa-book"
+        - label: "Paper_browser"
+          url: <a href="https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf" target="_blank"></a>
+          icon: "fas fa-book"
 
 
 title: "DeepSeek-R1 Thoughtology: <Thinking> about LLM Reasoning"
