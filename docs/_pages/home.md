@@ -26,4 +26,4 @@ further exploration. We also note strong safety vulnerabilities of DeepSeek-R1 c
   <img src="https://github.com/user-attachments/assets/be46b39c-74ed-4277-a1c8-6237977c402a" width="80%" alt="Thoughtology_figure1"/>
 </p>
 
-<a href="https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf" target="_blank">Read the paper</a>
+<nav><a href="https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf" target="_blank">Read the paper</a></nav>
