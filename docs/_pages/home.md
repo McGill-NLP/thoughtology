@@ -4,8 +4,11 @@ layout: splash
 header:
     overlay_color: rgb(171, 74, 73)
     actions:
-        - label: "Paper"
+        - label: "Paper_file_dl"
           url: https://github.com/user-attachments/files/19552274/Deepseek_R1_Thoughtology.pdf
+          icon: "fas fa-book"
+        - label: "Paper_drive"
+          url: https://drive.google.com/file/d/1eoZSEROdK07YB1QG_MP3F2keYp-pqovI/view
           icon: "fas fa-book"
 
 
