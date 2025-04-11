@@ -30,7 +30,7 @@ If you find this paper useful in your research, please consider citing:
 
 ```
 @misc{thoughtology2025,
-      title={{DeepSeek-R1 Thoughtology}: {L}et's <think> about {LLM} reasoning}, 
+      title={DeepSeek-R1 Thoughtology: Let's <think> about LLM reasoning}, 
       author={Sara Vera Marjanović and Arkil Patel and Vaibhav Adlakha and Milad Aghajohari and Parishad BehnamGhader and Mehar Bhatia and Aditi Khandelwal and Austin Kraft and Benno Krojer and Xing Han Lù and Nicholas Meade and Dongchan Shin and Amirhossein Kazemnejad and Gaurav Kamath and Marius Mosbach and Karolina Stańczak and Siva Reddy},
       year={2025},
       eprint={2504.07128},
